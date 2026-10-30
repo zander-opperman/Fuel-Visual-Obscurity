@@ -8,6 +8,8 @@ library(tidyverse)
 library(shinyjs)
 library(janitor)
 
+# Load helper functions
+# 
 # Functions for image processing
 source("www/helpersV2.R")
 
