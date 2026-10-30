@@ -1,0 +1,142 @@
+Citations
+Generated: 2026-10-29
+============================================================
+
+R Core Team (2026). "R: A Language and
+Environment for Statistical Computing". R
+Foundation for Statistical Computing,
+Vienna, Austria. doi:10.32614/R.manuals
+<https://doi.org/10.32614/R.manuals>.
+<https://www.R-project.org/>.
+(R version 4.6.1 (2026-06-24 ucrt))
+
+------------------------------
+
+Sievert C (2023). "bsicons: Easily Work with
+'Bootstrap' Icons".
+doi:10.32614/CRAN.package.bsicons
+<https://doi.org/10.32614/CRAN.package.bsicons>.
+R package version 0.1.2,
+<https://CRAN.R-project.org/package=bsicons>.
+(Package: bsicons, version 0.1.2)
+
+------------------------------
+
+Sievert C, Cheng J, Aden-Buie G (2026).
+"bslib: Custom 'Bootstrap' 'Sass' Themes for
+'shiny' and 'rmarkdown'".
+doi:10.32614/CRAN.package.bslib
+<https://doi.org/10.32614/CRAN.package.bslib>.
+R package version 0.10.0,
+<https://CRAN.R-project.org/package=bslib>.
+(Package: bslib, version 0.10.0)
+
+------------------------------
+
+Weller H (2021). "colordistance: Distance
+Metrics for Image Color Similarity".
+doi:10.32614/CRAN.package.colordistance
+<https://doi.org/10.32614/CRAN.package.colordistance>.
+R package version 1.1.2,
+<https://CRAN.R-project.org/package=colordistance>.
+(Package: colordistance, version 1.1.2)
+
+------------------------------
+
+Weller H (2019). "countcolors: Locates and
+Counts Pixels Within Color Range(s) in
+Images".
+doi:10.32614/CRAN.package.countcolors
+<https://doi.org/10.32614/CRAN.package.countcolors>.
+R package version 0.9.1,
+<https://CRAN.R-project.org/package=countcolors>.
+(Package: countcolors, version 0.9.1)
+
+------------------------------
+
+Firke S (2024). "janitor: Simple Tools for
+Examining and Cleaning Dirty Data".
+doi:10.32614/CRAN.package.janitor
+<https://doi.org/10.32614/CRAN.package.janitor>.
+R package version 2.2.1,
+<https://CRAN.R-project.org/package=janitor>.
+(Package: janitor, version 2.2.1)
+
+------------------------------
+
+Ooms J (2026). "magick: Advanced Graphics
+and Image-Processing in R".
+doi:10.32614/CRAN.package.magick
+<https://doi.org/10.32614/CRAN.package.magick>.
+R package version 2.9.1,
+<https://CRAN.R-project.org/package=magick>.
+(Package: magick, version 2.9.1)
+
+------------------------------
+
+Wickham H, Hester J, Bryan J (2026). "readr:
+Read Rectangular Text Data".
+doi:10.32614/CRAN.package.readr
+<https://doi.org/10.32614/CRAN.package.readr>.
+R package version 2.2.0,
+<https://CRAN.R-project.org/package=readr>.
+(Package: readr, version 2.2.0)
+
+------------------------------
+
+Chang W, Cheng J, Allaire J, Sievert C,
+Schloerke B, Aden-Buie G, Xie Y, Allen J,
+McPherson J, Dipert A, Borges B (2026).
+"shiny: Web Application Framework for R".
+doi:10.32614/CRAN.package.shiny
+<https://doi.org/10.32614/CRAN.package.shiny>.
+R package version 1.13.0,
+<https://CRAN.R-project.org/package=shiny>.
+(Package: shiny, version 1.13.0)
+
+------------------------------
+
+Attali D (2026). "shinyjs: Easily Improve
+the User Experience of Your Shiny Apps in
+Seconds". doi:10.32614/CRAN.package.shinyjs
+<https://doi.org/10.32614/CRAN.package.shinyjs>.
+R package version 2.1.1,
+<https://CRAN.R-project.org/package=shinyjs>.
+(Package: shinyjs, version 2.1.1)
+
+------------------------------
+
+Perrier V, Meyer F, Granjon D (2026).
+"shinyWidgets: Custom Inputs Widgets for
+Shiny".
+doi:10.32614/CRAN.package.shinyWidgets
+<https://doi.org/10.32614/CRAN.package.shinyWidgets>.
+R package version 0.9.1,
+<https://CRAN.R-project.org/package=shinyWidgets>.
+(Package: shinyWidgets, version 0.9.1)
+
+------------------------------
+
+Sievert C, Schloerke B, Cheng J (2025).
+"thematic: Unified and Automatic 'Theming'
+of 'ggplot2', 'lattice', and 'base' R
+Graphics".
+doi:10.32614/CRAN.package.thematic
+<https://doi.org/10.32614/CRAN.package.thematic>.
+R package version 0.1.8,
+<https://CRAN.R-project.org/package=thematic>.
+(Package: thematic, version 0.1.8)
+
+------------------------------
+
+Wickham H, Averick M, Bryan J, Chang W,
+McGowan LD, François R, Grolemund G, Hayes
+A, Henry L, Hester J, Kuhn M, Pedersen TL,
+Miller E, Bache SM, Müller K, Ooms J,
+Robinson D, Seidel DP, Spinu V, Takahashi K,
+Vaughan D, Wilke C, Woo K, Yutani H (2019).
+“Welcome to the tidyverse.” "Journal of Open
+Source Software", *4*(43), 1686.
+doi:10.21105/joss.01686
+<https://doi.org/10.21105/joss.01686>.
+(Package: tidyverse, version 2.0.0)

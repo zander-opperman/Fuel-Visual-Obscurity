@@ -1,0 +1,12 @@
+name: visual_obstructionv2
+title: Visual_ObstructionV2
+username: zander
+account: zander
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a17f85-32db-00b4-1f25-2ad5f6c9268e
+bundleId:
+url: https://connect.posit.cloud/zander/content/01a17f85-32db-00b4-1f25-2ad5f6c9268e
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
