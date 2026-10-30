@@ -521,7 +521,11 @@ bslib::page_navbar(
                            color will be unique enough to be in its own bin.", br(),br(),
                            "To increase processing time, the pixel selection is limited
                            to the area immediately around the frame using the ", code("magick"),
-                           " package."
+                           " package.", br(),br(),
+                           "You can access the code on GitHub: ", 
+                           tags$a(href = "https://github.com/zander-opperman/Fuel-Visual-Obscurity",
+                                  "https://github.com/zander-opperman/Fuel-Visual-Obscurity"),
+                           "."
                         ),
                         img(src = "Pixel_Plot.jpeg", height = "250px", width = "auto")
                     )
